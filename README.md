@@ -8,3 +8,5 @@ The Grid is getting old and results in increased maintenance and operation cost.
 Cost for unplanned maintenance and unforeseen faults is a pain for utilities and results in loss of revenue.
 The Grid has not fully migrated to the edge or cloud to benefit from industry 4.0.
 Data is in abundance but most of it is not utilized, a potential to start solving the above mentioned.
+
+Omdena challenge
