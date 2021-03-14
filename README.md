@@ -10,3 +10,6 @@ The Grid has not fully migrated to the edge or cloud to benefit from industry 4.
 Data is in abundance but most of it is not utilized, a potential to start solving the above mentioned.
 
 Omdena challenge: Tester commit
+
+
+check
