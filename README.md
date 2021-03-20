@@ -12,4 +12,4 @@ Data is in abundance but most of it is not utilized, a potential to start solvin
 Omdena challenge: Tester commit
 
 
-check 7
+check 8
