@@ -12,4 +12,4 @@ s
 Omdena challenge: Tester commit
 
 
-finale ass
+finale assfight
