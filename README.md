@@ -13,4 +13,4 @@ Omdena challenge: Tester commit
 
 
 finales
-exas
+exam marks
