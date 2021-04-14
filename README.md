@@ -12,5 +12,5 @@ s
 Omdena challenge: Tester commit
 
 
-finales
+finaless
 exam markss
