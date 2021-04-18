@@ -14,4 +14,4 @@ Omdena challenge: Tester commit
 
 finaless
 exam marksscovid
-ss
+ssss
