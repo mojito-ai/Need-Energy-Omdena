@@ -13,6 +13,6 @@ Omdena challenge: Tester commit
 
 
 finaless
-exam marksscovidtest done
+exam marksscovidtest donepositive
 ssss
 s
