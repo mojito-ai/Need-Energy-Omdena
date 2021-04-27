@@ -14,5 +14,5 @@ Omdena challenge: Tester commit
 
 finaless
 exam marksscovidtest donepositive
-ssssweekend
+ssssweekends
 s
