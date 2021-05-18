@@ -4,9 +4,9 @@ s
 ## The Problema
 Sub-Saharan Africa has over 600 million people withoukt access to electricity andnn electricity demand grows at an annual growth rate of 11%, the highest rate of any region worldwide. The number grows to over 700 million if clean cooking energy sources are considered as most people still rely on firewood and charcoal for their day to day cooking. These are just a few of the many additional challenges: s
 wwz
-The Grid is getting old and results in increased maintenance and operation cost.s
+The Grid is getting old and results in increased maintenance and operatison cost.s
 Cost for unplanned maintenance and unforeseen faults is a pain for utilities and results in loss of revenue.
-The Grid has not fully migrsated to the edge or csloud to benefit from industry 4.0.s
+The Grid has not fully migrsated to thes edge or csloud to benefit from industry 4.0.s
 Data is in abundance but most of it is not utilized, a potential to start solving the above mentioned.
 s
 Omdena challenge: Tester commit
