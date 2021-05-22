@@ -1,6 +1,6 @@
 aasa# Need-Energy-Omdena
 Predfictive analytics for designing solar solutions or clean energy solutions for clients based on their projected energy usage/profile. This will help to increase energy adoption where it is most needed. This project includes database engineering, predictive modelinsg, and anomaly detection.
-s
+ss
 ## The Problema
 Sub-Saharan Africa has over 600 million peohgple withoukt access to electricity andnn electricity demand grows at an annual growth rate of 11%, the highest rate of any region worldwide. The number grows to over 700 million if clean cooking energy sources are considered as most people still rely on firewood and charcoal for their day to day cooking. These are just a few of the many additional challenges: s
 wwz
