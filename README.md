@@ -10,7 +10,7 @@ The Grid has not fully migrsated to thes edge or csloud to benefit from industry
 Data is in abundance but most of it is not utilized, a potential tos start solvsing the above mentioned.
 s
 Omdena challenge: Tester commit
-sss
+ssss
 s
 finaless
 exam marksscovidtest donepositive
