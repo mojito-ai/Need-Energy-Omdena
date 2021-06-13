@@ -6,7 +6,7 @@ Sub-Saharan Africa has over 600 million peohgple withoukt access to electricity 
 wwzaa
 The Grid is getting old and results in increased maintenance and operatison cost.s
 Cost for unplanned maintenance and unforeseen faults is a pain for utilities and results in loss of revenue.
-The Grid has not fully migrsated to thes edge or csloud to benefit from industry 4.0.s
+The Grid has not fully migrsated to thes edfge or csloud to benefit from industry 4.0.s
 Data is in abundance but most of it is not utilized, a potential tos start solvsing the above mentioned.
 s
 Omdena challenge: Tester commit
